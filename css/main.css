@@ -500,3 +500,12 @@ dd {
   background-color: #1585cf;
   opacity: .8;
 }
+
+/* left and right alignment */
+.left {
+  float:left;
+}
+
+.right {
+  float:right;
+}
