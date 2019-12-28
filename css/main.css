@@ -79,11 +79,16 @@ p, table, tr, td, ul, li, blockquote, nav, a, footer, dl, dt, dd {
 .datatable {
   width: 100%;
   border: 1px solid #20364c;
+}
 
-  th, td {
-    text-align: center;
-    border: 1px solid #20364c;
-  }
+.datatable th {
+  text-align: center;
+  border: 1px solid #20364c;
+}
+
+.datatable td {
+  text-align: center;
+  border: 1px solid #20364c;
 }
 
 dt {
